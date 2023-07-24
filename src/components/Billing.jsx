@@ -8,7 +8,7 @@ const Billing = () => (
       <img
         src={bill}
         alt="billing"
-        className="w-[530px] h-[455px] relative z-[5]"
+        className="w-[100%] h-[100%] relative z-[5]"
       />
 
       <div
